@@ -129,9 +129,9 @@
     height: 100%;
     border-radius: 15px;
     background:
-      url(/assets/lanyard/Logo.png),
+      url(/assets/card/Logo.png),
       linear-gradient(to top, rgba(233, 188, 11, 0.8) 0%, transparent 60%),
-      url(/assets/lanyard/foto.png),
+      url(/assets/card/foto.png),
       #ffffff;
     background-size: 60px, cover, cover;
     background-position: 20px 20px, center, center;
